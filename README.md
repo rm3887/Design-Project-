@@ -1,2 +1,2 @@
 # Design-Project-
-Electronic Component Classification using Neural Networks
+Circuit Component Classification using Neural Networks
